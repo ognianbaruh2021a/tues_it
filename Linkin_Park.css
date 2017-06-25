@@ -74,12 +74,12 @@ text-align: center;
 font-size: 150%
 }
 .col-6#setlist {
-font-size: 550%;
+font-size: 350%;
 color: #00cc66;
 text-align: center;
 }
 @media only screen and (min-width: 600px) {
-.col-6#setlist {font-size: 350%;}
+.col-6#setlist {font-size: 550%;}
 }
 .col-6#photo_album { 
 align: center;

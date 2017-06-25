@@ -79,7 +79,7 @@ color: #00cc66;
 text-align: center;
 }
 @media only screen and (max-width: 600px) {
-.col-6#setlist {font-size: 550%;}
+.col-6#setlist { font-size: 550%; }
 }
 .col-6#photo_album { 
 align: center;

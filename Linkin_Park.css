@@ -47,6 +47,9 @@ font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman
 body {
 background-image: url("background2.jpg"); 
 }
+a {
+target: "_blank";
+}
 h1 {
 color: blue;
 font-size: 400%;
